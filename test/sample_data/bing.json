@@ -1,0 +1,108 @@
+{
+  "success": {
+    "d": {
+      "results": [
+        {
+          "__metadata": {
+            "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/Composite?Query='apple'&Sources='image'&NewsSortBy='Date'&$skip=0&$top=1",
+            "type": "ExpandableSearchResult"
+          },
+          "ID": "be00ad42-e048-4d2f-ac32-f3fedb332b7e",
+          "WebTotal": "",
+          "WebOffset": "",
+          "ImageTotal": "150000",
+          "ImageOffset": "0",
+          "VideoTotal": "",
+          "VideoOffset": "",
+          "NewsTotal": "",
+          "NewsOffset": "",
+          "SpellingSuggestionsTotal": "",
+          "AlteredQuery": "",
+          "AlterationOverrideQuery": "",
+          "Web": [],
+          "Image": [
+            {
+              "__metadata": {
+                "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/ExpandableSearchResultSet(guid'be00ad42-e048-4d2f-ac32-f3fedb332b7e')/Image?$skip=0&$top=1",
+                "type": "ImageResult"
+              },
+              "ID": "120c6c59-edfc-4609-b590-605483fa8a45",
+              "Title": "Apple:",
+              "MediaUrl": "http://2.bp.blogspot.com/-mWptsJUBXBg/UP_3FSBDuHI/AAAAAAAAB3M/gG3A4ZZvTjc/s1600/apple.jpg",
+              "SourceUrl": "http://entirelyfromheart.blogspot.com/2013/01/foods-that-help-to-get-rid-of-bad-breath.html",
+              "DisplayUrl": "entirelyfromheart.blogspot.com/2013/01/foods-that-help-to-get-rid...",
+              "Width": "900",
+              "Height": "904",
+              "FileSize": "180982",
+              "ContentType": "image/jpeg",
+              "Thumbnail": {
+                "__metadata": {
+                  "type": "Bing.Thumbnail"
+                },
+                "MediaUrl": "http://ts2.mm.bing.net/th?id=OIP.Mb6ef1843114b7a406b46a2ab3affe0c9H0&pid=15.1",
+                "ContentType": "image/jpg",
+                "Width": "477",
+                "Height": "480",
+                "FileSize": "6791"
+              }
+            },
+            {
+              "__metadata": {
+                "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/ExpandableSearchResultSet(guid'be00ad42-e048-4d2f-ac32-f3fedb332b7e')/Image?$skip=1&$top=1",
+                "type": "ImageResult"
+              },
+              "ID": "87a60f69-2dff-4091-8387-f54e81ec2fac",
+              "Title": "Red Delicious apple comes in at 63 calories for a 125 gram apple and ...",
+              "MediaUrl": "http://images.seekyt.com/uploads/1345459297_apple_red_delicious.jpg",
+              "SourceUrl": "http://www.seekyt.com/calories-in-an-apple/",
+              "DisplayUrl": "www.seekyt.com/calories-in-an-apple",
+              "Width": "2223",
+              "Height": "2223",
+              "FileSize": "721759",
+              "ContentType": "image/jpeg",
+              "Thumbnail": {
+                "__metadata": {
+                  "type": "Bing.Thumbnail"
+                },
+                "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.Mdb9bf1e78869d2fc0b22675938c60c83H0&pid=15.1",
+                "ContentType": "image/jpg",
+                "Width": "480",
+                "Height": "480",
+                "FileSize": "13832"
+              }
+            },
+            {
+              "__metadata": {
+                "uri": "https://api.datamarket.azure.com/Data.ashx/Bing/Search/ExpandableSearchResultSet(guid'be00ad42-e048-4d2f-ac32-f3fedb332b7e')/Image?$skip=2&$top=1",
+                "type": "ImageResult"
+              },
+              "ID": "9084db34-4323-4c6f-8a0a-67163a714cf1",
+              "Title": "Description Honeycrisp-Apple.jpg",
+              "MediaUrl": "http://upload.wikimedia.org/wikipedia/commons/0/07/Honeycrisp-Apple.jpg",
+              "SourceUrl": "http://commons.wikimedia.org/wiki/File:Honeycrisp-Apple.jpg",
+              "DisplayUrl": "commons.wikimedia.org/wiki/File:Honeycrisp-Apple.jpg",
+              "Width": "2880",
+              "Height": "2600",
+              "FileSize": "3122572",
+              "ContentType": "image/jpeg",
+              "Thumbnail": {
+                "__metadata": {
+                  "type": "Bing.Thumbnail"
+                },
+                "MediaUrl": "http://ts1.mm.bing.net/th?id=OIP.M4bd2c3360570f5c5b18c9d57fbe9de2cH0&pid=15.1",
+                "ContentType": "image/jpg",
+                "Width": "300",
+                "Height": "270",
+                "FileSize": "8677"
+              }
+            }
+          ],
+          "Video": [],
+          "News": [],
+          "RelatedSearch": [],
+          "SpellingSuggestions": []
+        }
+      ]
+    }
+  }
+}
